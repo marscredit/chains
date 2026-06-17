@@ -1,9 +1,13 @@
 {
-  "name": "Taiko Mainnet",
+  "name": "Taiko",
   "chain": "ETH",
   "status": "active",
   "icon": "taiko",
-  "rpc": ["https://rpc.mainnet.taiko.xyz", "wss://ws.mainnet.taiko.xyz"],
+  "rpc": [
+    "https://rpc.mainnet.taiko.xyz",
+    "https://taiko-rpc.publicnode.com",
+    "wss://taiko-rpc.publicnode.com"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
